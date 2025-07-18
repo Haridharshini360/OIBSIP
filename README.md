@@ -44,47 +44,59 @@ To simulate the working of a basic ATM machine with simple transactions and menu
 Sample Output:
 Enter your PIN: 1234
 
-1. Check Balance
-
-
-2. Deposit
-
-
-3. Withdraw
-
-
-4. Exit Choose an option: 1 Your current balance is: ₹10000
+===== ATM Menu =====
 
 1. Check Balance
 
-
 2. Deposit
-
 
 3. Withdraw
 
+4. Exit
+Choose an option: 1
+Your current balance is: ₹10000
 
-4. Exit Choose an option: 2 Enter amount to deposit: 3000 ₹3000 deposited successfully.
+
+
+===== ATM Menu =====
 
 1. Check Balance
 
-
 2. Deposit
-
 
 3. Withdraw
 
+4. Exit
+Choose an option: 2
+Enter amount to deposit: 3000
+₹3000 deposited successfully.
 
-4. Exit Choose an option: 3 Enter amount to withdraw: 2000 ₹2000 withdrawn successfully.
+
+
+===== ATM Menu =====
 
 1. Check Balance
 
-
 2. Deposit
-
 
 3. Withdraw
 
+4. Exit
+Choose an option: 3
+Enter amount to withdraw: 2000
+₹2000 withdrawn successfully.
 
-4. Exit Choose an option: 4 Thank you for using our ATM. Goodbye!
+
+
+===== ATM Menu =====
+
+1. Check Balance
+
+2. Deposit
+
+3. Withdraw
+
+4. Exit
+Choose an option: 4
+Thank you for using our ATM. Goodbye!
 
